@@ -34,3 +34,10 @@
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+Imagens usadas provenientes da Rocketseat.
+
+---
+
+Feito com 💜 por Guilherme Julio
+

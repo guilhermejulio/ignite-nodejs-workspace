@@ -6,12 +6,12 @@
 
 ## Índice das aulas do NÍVEL 1
 
-- [01 - Fundamentos do NodeJS](https://github.com/guilhermejulio/ignite-nodejs-workspace/tree/main/Chapter-I/fundamentos-nodejs)  :construction: In Progress... :construction:
+- [01 - Fundamentos do NodeJS](https://github.com/guilhermejulio/ignite-nodejs-workspace/tree/main/Chapter-I/fundamentos-nodejs)  🚀 Done :heavy_check_mark:
 - [02 - Primeiro Projeto com Node.js]()  :construction: In Progress... :construction:
 - 
 ## :open_book: Notion com anotações de cada aula:
 
-- [01 - Anotações - Fundamentos do NodeJS](https://www.notion.so/igniteguilhermejulio/Cap-tulo-1-281ca463ac1c449fb4b82a44702e50f0) :construction: In Progress... :construction:
+- [01 - Anotações - Fundamentos do NodeJS](https://www.notion.so/igniteguilhermejulio/Cap-tulo-1-281ca463ac1c449fb4b82a44702e50f0) 🚀 Done :heavy_check_mark:
 - [02 - Anotações - Primeiro Projeto com Node.js]() :construction: In Progress... :construction:
 
 

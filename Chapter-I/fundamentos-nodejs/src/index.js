@@ -9,4 +9,7 @@ app.get('/', (request, response) => {
   });
 })
 
-app.listen(2398);
+app.listen(2398, () => {
+  console.log('Server start on port 2398! 🚀')
+}
+);
